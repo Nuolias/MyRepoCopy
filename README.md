@@ -1,3 +1,3 @@
 # MyRepoCopy
 
-Changes made in local repo
+Changes made in local repo.
